@@ -1,0 +1,9 @@
+- 👋 Hi, I'm Gokul, a data analyst 
+- 👀  I'm interested in AI and AR ...
+- 🌱 I'm currently working as a Data Analyst ...
+- 💞️ I'm looking to collaborate on projects that involve data analysis, AI, and AR ...
+
+<!---
+gokulrajar15/gokulrajar15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
