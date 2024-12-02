@@ -58,10 +58,20 @@
 <br>
 <div align="center">
   <!-- GitHub Readme Stats -->
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=gokulrajar15&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=gokulrajar15&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
+    alt="readme stats" 
+    width="400" 
+    height="200" 
+  />
 
   <!-- GitHub Top Languages -->
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulrajar15&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulrajar15&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" 
+    alt="top langs" 
+    width="400" 
+    height="200" 
+  />
 </div>
 
 <br/><br/>
