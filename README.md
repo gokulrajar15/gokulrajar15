@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Linux, Rust, System Design**
 
- 📖 I'm currently reading **Machine Learning Systems [here](https://mlsysbook.ai/Machine-Learning-Systems.pdf)**
+ 📖 I'm currently reading **Machine Learning Systems [here](https://www.mlsysbook.ai/)**
 
 
  </div>
