@@ -36,8 +36,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,python,linux,docker,azure,git," />
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,rust,mongodb,mysql,fastapi,django,flask," /><br>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,python,linux,docker,kubernetes,azure,aws,gcp,git,github" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,rust,mongodb,mysql,fastapi,django,flask,mysql,postgres,redis" /><br>
 </div>
 
 <br/>
@@ -53,34 +53,11 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <div align="center">
-  <!-- GitHub Readme Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=gokulrajar15&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
-    alt="readme stats" 
-    width="400" 
-    height="200" 
-  />
-
-  <!-- GitHub Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulrajar15&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" 
-    alt="top langs" 
-    width="400" 
-    height="200" 
-  />
+  <br/>
+  <p>⭐️ From <a href="https://gokulrajar15.github.io/gokulport.github.io/">Gokul Raja</a></p>
+  <p>💡 "Building the future, one model at a time" 💡</p>
+  <br/>
 </div>
 
-<br/><br/>
 
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/gokulrajar' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
